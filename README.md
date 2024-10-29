@@ -29,6 +29,9 @@ Here are some of the technologies and tools I use in my work:
   </a>
 </div>
 
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical)
+
 ## 🚀 Featured Projects
 
 Here are a few of my favorite and recent projects:
