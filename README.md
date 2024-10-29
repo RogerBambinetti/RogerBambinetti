@@ -29,9 +29,6 @@ Here are some of the technologies and tools I use in my work:
   </a>
 </div>
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=RogerBambinetti&color=blue)
-
 ## 🚀 Featured Projects
 
 Here are a few of my favorite and recent projects:
