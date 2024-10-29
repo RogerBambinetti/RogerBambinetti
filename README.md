@@ -22,12 +22,10 @@ Here are some of the technologies and tools I use in my work:
 
 ## 📈 GitHub Stats
 
-<div align="center">
   <a href="https://github.com/RogerBambinetti">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerBambinetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerBambinetti&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
 
 ## 🚀 Featured Projects
 
