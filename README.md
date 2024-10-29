@@ -29,8 +29,8 @@ Here are some of the technologies and tools I use in my work:
   </a>
 </div>
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=radical)
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=RogerBambinetti&color=blue)
 
 ## 🚀 Featured Projects
 
