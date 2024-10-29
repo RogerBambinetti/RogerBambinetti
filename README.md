@@ -1,6 +1,6 @@
 # Sup 👋
 
-Welcome to my GitHub profile! Here you'll find some of my projects and contributions in technology and software development.
+Welcome to my GitHub profile! Here you'll find some of my personal projects and contributions.
 
 ## 👨‍💻 About Me
 
