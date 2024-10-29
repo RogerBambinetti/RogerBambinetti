@@ -6,7 +6,6 @@ Welcome to my GitHub profile! Here you'll find some of my projects and contribut
 
 - 🌱 I’m currently working with NodeJS and ReactJS
 - 👯 I’m open to collaborating on anything that gets me excited!
-- 💬 Ask me about **[technology, language, area of expertise]**
 - 🎶 I love making music on my free time 
 
 ## 🔧 Technologies & Tools
