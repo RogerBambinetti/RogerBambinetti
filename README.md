@@ -30,7 +30,7 @@ Here are some of the technologies and tools I use in my work:
 
 Here are a few of my favorite and recent projects:
 
-- [**Project 1**](project_link): A brief description of the project, its features, and technologies used.
+- [**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system build with react and node.js, was very useful to learn a bit more about socket.io.
 - [**Project 2**](project_link): A brief description of the project, its features, and technologies used.
 
 ## 🌐 Let’s Connect!
