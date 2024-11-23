@@ -1,4 +1,4 @@
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
     <td>
       <img height="180em" src="https://github.com/RogerBambinetti/RogerBambinetti/blob/main/images/silly%20cat.gif"/>
