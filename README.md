@@ -1,8 +1,14 @@
-<img height="180em" src="https://github.com/RogerBambinetti/RogerBambinetti/blob/main/images/silly%20cat.gif"/>
-
-# Sup 👋
-
-Welcome to my GitHub profile! Here you'll find some of my personal projects and contributions.
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github.com/RogerBambinetti/RogerBambinetti/blob/main/images/silly%20cat.gif"/>
+    </td>
+    <td>
+      <h1>Sup 👋</h1>
+      Welcome to my GitHub profile! Here you'll find some of my personal projects and contributions.
+    </td>
+  </tr>
+</table>
 
 ## 👨‍💻 About Me
 
