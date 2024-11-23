@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently (mainly) working with NodeJS and ReactJS
+- 🌱 I’m currently (mainly) working with NodeJS and React
 - 👯 I’m open to collaborating on anything that gets me excited!
 - 🎶 I love making music on my free time 
 
