@@ -48,4 +48,4 @@ These are a few of my favorite and recent projects:
 
 ---
 
-Thanks for visiting! 😊 Feel free to reach out for a chat about tech... or anything else!
+Thanks for visiting! 😊 Feel free to reach out for a chat about tech (or anything else)
