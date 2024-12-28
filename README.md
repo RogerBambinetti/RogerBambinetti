@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Here you'll find some of my personal projects and 
 
 These are a few of my favorite and recent projects:
 
-- [**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system built with react and node.js, was very useful to learn a bit more about websockets with socket.io.
-- [**PROs-scrapper**](https://github.com/RogerBambinetti/PROs-scrapper-nodejs): Web scrapper for Performance Rights Organizations such as ASCAP using Puppeteer.
+- [**PROs-scrapper**](https://github.com/RogerBambinetti/PROs-scrapper-nodejs): Web scrapper for Performance Rights Organizations such as ASCAP using Node.js Puppeteer.
+- [**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system built with React and Node.js, was very useful to learn a bit more about websockets with socket.io.
 
 Thanks for visiting! 😊 Feel free to reach out for a chat about tech (or anything else)
