@@ -33,11 +33,4 @@ These are a few of my favorite and recent projects:
 - [**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system built with react and node.js, was very useful to learn a bit more about websockets with socket.io.
 - [**PROs-scrapper**](project_link): (adding soon).
 
-## 🌐 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/rogerbambinetti)  
-- [E-mail](https://your_portfolio.com)  
-
----
-
 Thanks for visiting! 😊 Feel free to reach out for a chat about tech (or anything else)
