@@ -12,9 +12,9 @@ Welcome to my GitHub profile! Here you'll find some of my personal projects and 
 
 These are a few of my favorite and recent projects:
 
-[**Gympass-like API**](https://github.com/RogerBambinetti/gympass-like-api-solid-nodejs): REST API for a gympass-like application using Typescript + Prisma and applying SOLID principles.
-[**PROs-scrapper**](https://github.com/RogerBambinetti/PROs-scrapper-nodejs): Web scrapper for Performance Rights Organizations such as ASCAP using Node.js and Puppeteer.
-[**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system built with React and Node.js, was very useful to learn a bit more about websockets with socket.io.
+[**Gympass-like API**](https://github.com/RogerBambinetti/gympass-like-api-solid-nodejs): REST API for a gympass-like application using Typescript + Prisma and applying SOLID principles. <br>
+[**PROs-scrapper**](https://github.com/RogerBambinetti/PROs-scrapper-nodejs): Web scrapper for Performance Rights Organizations such as ASCAP using Node.js and Puppeteer. <br>
+[**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system built with React and Node.js, was very useful to learn a bit more about websockets with socket.io. <br>
 
 ## 📈 GitHub Stats
 
