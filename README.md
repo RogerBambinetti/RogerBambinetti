@@ -1,5 +1,4 @@
 ```markdown
-```markdown
 const profile = {
   greeting: "Sup 👋",
   welcomeMessage: "Welcome to my GitHub profile! Here you'll find some of my personal projects and contributions.",
