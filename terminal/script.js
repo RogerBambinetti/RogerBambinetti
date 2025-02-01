@@ -121,27 +121,16 @@ async function runTerminalEmulator() {
     await TE.enterCommand();
     await TE.enterResponse("Here you'll find some of my personal projects and contributions...");
     await TE.wait(2000);
-    await TE.enterResponse('- style v9.9.9 installed.');
-    await TE.wait(600);
-    await TE.enterResponse('- markup v0.1.0 installed.');
-    await TE.wait(600);
-    await TE.enterResponse('- scripts v9.9.9 installed.');
-    await TE.wait(300);
-    await TE.enterResponse('- 10 billion dependencies installed.');
-    await TE.wait(700);
-    await TE.enterResponse('Make website responsive? (y/y)');
-    await TE.wait(2000, false);
-    await TE.enterInput('y');
-    await TE.enterCommand();
+    await TE.enterResponse('- I’m currently (mainly) working with NodeJS and React.');
+    await TE.enterResponse('- I’m open to collaborating on anything that gets me excited!');
     await TE.wait(400);
-    await TE.enterResponse('Make website accessible? (y/y)');
-    await TE.wait(1800, false);
-    await TE.enterInput('y');
+    await TE.enterInput("Featured projects:");
     await TE.enterCommand();
-    await TE.wait(400);
-    await TE.enterResponse('finalizing...');
     await TE.wait(2000);
-    await TE.enterResponse('Website complete! Wasn\'t that easy?');
+    await TE.enterResponse('Some of my favorite/recent projects:');
+    await TE.enterResponse('- [**mpegh-decoder**](https://github.com/RogerBambinetti/mpegh-decoder): An NPM package for decoding MPEG-H 3D audio into WAV on Node.js!');
+    await TE.enterResponse('- [**Gympass-like API**](https://github.com/RogerBambinetti/gympass-like-api-solid-nodejs): REST API for a gympass-like application using Typescript + Prisma and applying SOLID principles');
+    await TE.enterResponse('- [**Livechat**](https://github.com/RogerBambinetti/live-chat-nodejs-reactjs): A simple livechat system built with React and Node.js, was very useful to learn a bit more about websockets with socket.io.');
     await TE.reset();
 }
 
