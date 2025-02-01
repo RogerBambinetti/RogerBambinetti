@@ -25,7 +25,7 @@ const profile = {
     },
     {
       name: "Livechat",
-      description: "A simple livechat system built with React and Node.js, was very useful to learn a bit more about websockets with socket.io.",
+      description: "A simple livechat system built with React and Node.js + websockets with socket.io.",
       link: "https://github.com/RogerBambinetti/live-chat-nodejs-reactjs"
     }
   ]
