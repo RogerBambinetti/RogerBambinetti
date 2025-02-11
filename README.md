@@ -21,5 +21,5 @@ These are a few of my favorite and recent projects:
 
 <a href="https://github.com/RogerBambinetti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerBambinetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerBambinetti&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerBambinetti&layout=compact&langs_count=7&theme=dracula&hide=c,c%2B%2B"/>
 </a>
