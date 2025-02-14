@@ -1,8 +1,8 @@
-## Sup 👋
+## Sup 👋🏻
 
 Welcome to my GitHub profile! Here you'll find some of my personal projects and contributions.
 
-## 👨‍💻 About Me
+## 👨🏻‍💻 About Me
 
 - 🌱 I’m currently (mainly) working with NodeJS and React
 - 👯 I’m open to collaborating on anything that gets me excited!
