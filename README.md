@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you'll find some of my personal projects and 
 ## 👨🏻‍💻 About Me
 
 - 🌱 I’m currently (mainly) working with NodeJS and React
-- 👯 I’m open to collaborating on anything that gets me excited!
+- 👯 I’m open to collaborating on anything that excites me!
 - 🎶 I love making music in my free time
 
 ## 🚀 Featured Projects
