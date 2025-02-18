@@ -19,7 +19,7 @@ These are a few of my favorite and recent projects:
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; background: red">
+<div style="display: flex;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RogerBambinetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerBambinetti&layout=compact&langs_count=7&theme=dracula&hide=c,c%2B%2B"/>
 </div>
